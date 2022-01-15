@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tip calculator</string>
+    <string name="amazing_service">Amazing (20%)</string>
+    <string name="good_service">Good (18%)</string>
+    <string name="okay_services">Okay (15%)</string>
+    <string name="tip_amount">Tip Amount: %s</string>
+</resources>
